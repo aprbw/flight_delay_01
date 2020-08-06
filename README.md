@@ -21,7 +21,7 @@ This the main file. It contains all the configurations, the default hyperparamte
 * **ProgressIndicator.py**
 This is a utility class for progress indicator in a loop.
 
-* **hp.py((
+* **hp.py**
 This is for hyper-paramter search.
 
 Note: the data are not yet provided.
