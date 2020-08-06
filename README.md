@@ -1,7 +1,7 @@
 # Predicting Flight Delay With Spatio-Temporal Trajectory Convolutional Network and Airport Situational Awareness Map
 
 <p align="center">
-  <img src=./traj_cnn.png>
+  <img src=./trajcnn_arch.PNG>
 </p>
 
 * **FAA_DataPointLoader_Image_Only_2.py**
