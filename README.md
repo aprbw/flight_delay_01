@@ -4,11 +4,16 @@
   <img src=./trajcnn_arch.PNG>
 </p>
 
+```{python}
+from Flight_Delay_experiment_5 import experiment
+experiment()
+```
+
 * **FAA_DataPointLoader_Image_Only_2.py**
 This is the dataloader for the TrajCNN features.
 
 * **FAA_DataPointLoader_no_image_1.py**
-This is the dataloader for all the other features.
+This is the dataloader for all the other features (schedule and weather).
 
 * **Flight_Delay_experiment_5.py**
 This the main file. It contains all the configurations, the default hyperparamters, as well as the model.
